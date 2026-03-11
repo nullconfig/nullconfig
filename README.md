@@ -1,9 +1,8 @@
 👾 Hello, I'm a Senior Site Reliability Engineer and Python Developer
 
 Things that I'm currently interested in
-- 🐍 Python 
+- 🐍 Python
 - 🐳 Kubernetes
-- 🐧 Linux 
-- 🔭 Observability
-- 🔥 Prometheus
-
+- 🐧 Linux
+- 🔭 OpenTelemetry
+- 🔥 Counter-Strike
